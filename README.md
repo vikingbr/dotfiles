@@ -1,4 +1,4 @@
-#Felipe Frizzo's dotfiles.
+# Felipe Frizzo's dotfiles for OSx.
 This repository include all of my custom dotfiles.
 
 This include the following step.
@@ -14,7 +14,7 @@ This include the following step.
 * install latest updates from app store
 * configure Dock with the applications
 
-###Installation
+### Installation
 
 Download
 ```shell
