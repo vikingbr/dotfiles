@@ -26,13 +26,13 @@ This include the following step.
 * install latest updates from app store
 * configure Dock with the applications
 
-### Installation
+## Installation
 
-Download
+### To fast Download copy all this script and past in your prompt
 ```shell
 mkdir dotfiles
 cd dotfiles
-curl -#L http://github.com/felipefrizzo/dotfiles/tarball/master | tar -xvz --strip-components 1
+curl -#L http://github.com/vikingbr/dotfiles/tarball/linux/ubuntu | tar -xvz --strip-components 1
 chmod +x *.sh
 sh setup.sh
 cd ..
