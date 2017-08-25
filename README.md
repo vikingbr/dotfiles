@@ -3,7 +3,7 @@ This repository include all of my custom dotfiles.
 
 This include the following step.
 
-##Ubuntu:
+## Ubuntu:
 * run updates and upgrades default installation Ubuntu
 * install android-studio
 * install jasper-server
@@ -14,7 +14,7 @@ This include the following step.
 * install latest updates
 * configure Dock with the applications
 
-##OSx:
+## OSx:
 * install xcode-cli
 * install homebrew
 * install all applications from homebrew
