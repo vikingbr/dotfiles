@@ -14,7 +14,7 @@ echo ""
 echo "Setup Developer Tools"
 echo ""
 sh install-java.sh
-sh install-golang.sh
+# sh install-golang.sh
 sh install-pyenv.sh
 sh install-nvm.sh
 sh install-rbenv-rvm.sh
@@ -43,7 +43,7 @@ echo "Setup Utility"
 echo ""
 sh install-spotify.sh
 sh install-skype-beta.sh
-sh install-gitkraken.sh
+# sh install-gitkraken.sh
 
 echo ""
 echo "Setup pyenv"
