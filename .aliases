@@ -17,13 +17,3 @@ alias gcma='git commit -am'
 alias ga='git add .'
 alias gp='git push'
 alias gr='git rebase'
-
-# Docker
-alias dc='docker-compose'
-alias dcr='docker-compose run'
-alias dcw='docker-compose run web'
-alias dew='docker-compose exec web'
-alias dcd='dc run --rm web'
-alias updc='sudo rm tmp/pids/server.pid; dc up'
-alias dcstop='dc stop; sudo service postgresql start; sudo service redis start'
-alias dcstopservices='sudo service postgresql stop; sudo service redis stop'
